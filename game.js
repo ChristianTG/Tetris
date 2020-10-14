@@ -117,7 +117,7 @@ class SubBlock {
     return this.parent.pos[i] + this.pos[i]
   }
 }
-
+//Changes
 
 // Game Variables
 var pos =  [c.width/2, c.height/2]
